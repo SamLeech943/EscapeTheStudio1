@@ -1,15 +1,15 @@
 {
-	"FileVersion": 3,
-	"EngineAssociation": "{A1261F90-4DB8-FD4C-D80E-E9BDD3D35C99}",
-	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		}
-	]
+    "FileVersion": 3,
+    "EngineAssociation": "{65AB7EF9-4475-51D5-8F2A-45B9EC68449F}",
+    "Category": "",
+    "Description": "",
+    "Plugins": [
+        {
+            "Name": "ModelingToolsEditorMode",
+            "Enabled": true,
+            "TargetAllowList": [
+                "Editor"
+            ]
+        }
+    ]
 }
